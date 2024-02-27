@@ -1,0 +1,2 @@
+insert into ToDO (ID, USERNAME,DESCRIPTION,TARGET_DATE,COMPLETITION_STATUS)
+values("10001","Mangesh","Learn AWS",CURRENT_DATE(),false);
